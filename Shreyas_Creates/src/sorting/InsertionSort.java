@@ -7,6 +7,8 @@ public class InsertionSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		// https://www.youtube.com/watch?v=dsqsnngsoD8
+		
 		// https://www.youtube.com/watch?v=0lOnnd50cGI
 		Random rand = new Random();
 		int[] numbers = new int[10];
