@@ -18,6 +18,7 @@ public class SecondLargest {
 		
 		
 		Arrays.sort(array1);
+		System.out.println("Hellp");
 		
 		
 		
