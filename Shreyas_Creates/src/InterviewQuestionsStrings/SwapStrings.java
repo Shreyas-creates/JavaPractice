@@ -15,6 +15,8 @@ public class SwapStrings {
 			
 			System.out.println(first);
 			System.out.println(second);
+			
+			
 	}
 
 }
